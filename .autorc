@@ -1,0 +1,7 @@
+{
+  "plugins": [
+    "conventional-commits",
+  ],
+  "owner": "hipstersmoothie",
+  "repo": "conventional-auto-test"
+}
